@@ -2,7 +2,7 @@
 
 ---
 
-# AI Agent Team
+# AI Agent Team for Quality Engineering
 
 This project aims to create an AI team agent using Phidata for quality engineering purposes. As part of the quality engineering team, integrating AI into our projects has become crucial to improving and accelerating production and quality.
 

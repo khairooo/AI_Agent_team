@@ -9,8 +9,8 @@ load_dotenv()
 from phi.agent.duckdb import DuckDbAgent
 import json
 
-# Set your API key as an environment variable
-# Example: export GROQ_API_KEY="your_api_key"
+# Set your API key
+
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
 if not GROQ_API_KEY:
