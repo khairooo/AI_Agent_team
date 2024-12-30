@@ -1,4 +1,18 @@
+# for agent.py 
 phidata 
 openai 
 duckduckgo-search
 yfinance
+
+## for csv_agent.py
+pyodbc
+tabulate
+langchain
+langchain-community
+langchain-core
+langchain-experimental
+langchain-openai
+pandas
+SQLAlchemy
+python-dotenv
+streamlit

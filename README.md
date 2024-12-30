@@ -48,3 +48,12 @@ Feel free to contribute to this project by submitting issues or pull requests. Y
 ---
 
 I hope this helps! If you need any further adjustments or have additional information to include, feel free to let me know.
+
+================================================================================
+2) # **csv_agent.py:**
+- This file was a simple CSV AI Agent to do the same thing and trying to invoking the Data and see how it works with langchain.
+- After running the code we worked on ll suggestions provided from  the Agent in the file (EDA_data.pynb), To confirm that the Agent was accurate.
+
+
+![Output 01](./AI_Agent_team/output1.PNG)
+![Output 01](./AI_Agent_team/output2.PNG)
